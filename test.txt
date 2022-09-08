@@ -1,3 +1,9 @@
 hello world
 
+<<<<<<< HEAD
 Tanmaya Singh attendence done
+=======
+Attendance:
+
+Git Commit By Avnish Singh - Roll No. 19
+>>>>>>> a2f81de115082f7ede9e11eb1c495a6e7c5923cb
